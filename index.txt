@@ -1,3 +1,7 @@
 This is a git practice notes tesing
+<<<<<<< HEAD
 {body}
 {table}
+=======
+{button}
+>>>>>>> main
