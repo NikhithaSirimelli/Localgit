@@ -2,4 +2,5 @@ p{
     color: #000;
     cursor: auto  ;
     color: #000;
+    column-count: inherit;
 }
