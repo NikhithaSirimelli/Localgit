@@ -1,7 +1,6 @@
 This is a git practice notes tesing
-<<<<<<< HEAD
+ tesing
 {body}
 {table}
-=======
-{button}
->>>>>>> main
+
+
